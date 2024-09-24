@@ -9,7 +9,7 @@ The E-Commerce Buyer Application is a dynamic mobile platform designed for custo
 3. **Interact During Livestreaming (Firestore):** Engage directly with sellers by commenting in real-time during livestreams, powered by Firestore. Ask questions, share feedback, and get immediate responses from sellers.
 4. **Order Placement:** Easily place orders from your preferred stores, add products to your cart, and complete purchases with just a few taps.
 5. **Payment via Virtual Account (Midtrans):** Securely complete payments through virtual accounts powered by Midtrans, ensuring fast and safe transactions.
-6. **Order Tracking (Agora API):** Track your orders from dispatch to delivery using the Agora 3rd party API, providing real-time updates on your package status.
+6. **Order Tracking (RajaOngkir API):** Track your orders from dispatch to delivery using the RajaOngkir 3rd party API, providing real-time updates on your package status.
 
 ## **Pre-Installation (Laravel API endpoints)**
 
